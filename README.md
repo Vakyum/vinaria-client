@@ -1,3 +1,2 @@
 # Vinaria Client - An open-source Minecraft client by Vinaria Network 
-Client Minecraft moddé et cracké. Développé et sponsorisé par l'équipe de Vinaria Network. Ce projet est un projet open-source visant à développer un client polyvalent, aussi bien adapté au PvP qu'au créatif. 
-Nous ne sommes pas approuvés ou associés à Mojang Studios ou Microsoft. 
+Modded and cracked Minecraft client. Developed and sponsored by the Vinaria Network team. This project is an open-source project aiming to develop a versatile client, suited for both PvP and creative. We are not approved by or affiliated with Mojang Studios or Microsoft.
